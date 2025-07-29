@@ -32,3 +32,8 @@ cd World+Capital+Quiz
 then install the packages using npm i
 then chnage your db name and port address
 after you can run the pgm using node index.js
+```
+## PSQL Setup
+-STEP 1: CREATE A DATABASE
+-STEP 2: CREATE A TABLE 
+-STEP 3:IMPORT THE CSV FILE IN THE TABLE
